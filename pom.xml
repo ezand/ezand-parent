@@ -21,6 +21,12 @@
 		<maven-release-plugin.version>2.5.1</maven-release-plugin.version>
 	</properties>
 
+	<scm>
+		<connection>scm:git:git@github.com:ezand/ezand-parent.git</connection>
+		<url>scm:git:git@github.com:ezand/ezand-parent.git</url>
+		<developerConnection>scm:git:git@github.com:ezand/ezand-parent.git</developerConnection>
+	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
