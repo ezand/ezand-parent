@@ -8,6 +8,22 @@
 	<artifactId>parent</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<name>ezand - parent</name>
+	<description>Parent POM for ezand projects</description>
+	<url>http://ezand.org</url>
+	<licenses>
+		<license>
+			<name>GNU General Public License v2.0</name>
+			<url>http://choosealicense.com/licenses/gpl-2.0/</url>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Eirik Sand</name>
+			<email>eiriksand@gmail.com</email>
+		</developer>
+	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
