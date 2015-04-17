@@ -4,7 +4,7 @@
 
 	<groupId>org.ezand</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.4</version>
+	<version>1.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>ezand - parent</name>
 	<description>Parent POM for ezand projects</description>
@@ -52,7 +52,7 @@
 		<connection>scm:git:git@github.com:ezand/ezand-parent.git</connection>
 		<url>scm:git:git@github.com:ezand/ezand-parent.git</url>
 		<developerConnection>scm:git:git@github.com:ezand/ezand-parent.git</developerConnection>
-		<tag>parent-1.4</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
